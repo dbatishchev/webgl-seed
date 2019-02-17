@@ -9,7 +9,7 @@ Before you begin, make sure you are comfortable with terminal commands and have 
 In terminal clone the project into a directory of your choice then delete the git folder to start fresh.
 
 ```bash
-git clone --depth=1 https://github.com/edwinwebb/three-seed.git my-project
+git clone --depth=1 https://github.com/dbatishchev/webgl-seed.git my-project
 cd my-project
 rm -rf .git
 npm install
